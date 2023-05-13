@@ -1,0 +1,32 @@
+[
+    {
+      "codigo": "01",
+      "nombre": "Producto1",
+      "cantidad": 10,
+      "precio": 10000
+    },
+    {
+      "codigo": "02",
+      "nombre": "Producto2",
+      "cantidad": 5,
+      "precio": 70000
+    },
+    {
+      "codigo": "03",
+      "nombre": "Producto3",
+      "cantidad": 15,
+      "precio": 110000
+    },
+    {
+      "codigo": "04",
+      "nombre": "Producto4",
+      "cantidad": 100,
+      "precio": 8000
+    },
+    {
+      "codigo": "05",
+      "nombre": "Producto5",
+      "cantidad": 3,
+      "precio": 1500
+    }
+  ]

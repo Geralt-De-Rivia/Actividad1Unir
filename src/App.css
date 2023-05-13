@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.centrado { 
+  display: flex; 
+  justify-content: center; 
+}
+
+.alineado {
+  display: flex; 
+}
+
+.contador { 
+  margin: 4px;
+  margin-top: 0%;
+  height: 40px;
+}
+
+.link, .link:hover {
+  text-decoration: none;
+  color: inherit;
+  display: flex; 
+  justify-content: center; 
+}
